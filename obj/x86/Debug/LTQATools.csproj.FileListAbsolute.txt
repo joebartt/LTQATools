@@ -1,0 +1,10 @@
+C:\Users\jfrederick\Documents\Visual Studio 2010\Projects\LTQATools\bin\Debug\LTQATools.exe.config
+C:\Users\jfrederick\Documents\Visual Studio 2010\Projects\LTQATools\bin\Debug\LTQATools.exe
+C:\Users\jfrederick\Documents\Visual Studio 2010\Projects\LTQATools\bin\Debug\LTQATools.pdb
+C:\Users\jfrederick\Documents\Visual Studio 2010\Projects\LTQATools\obj\x86\Debug\LTQATools.csprojResolveAssemblyReference.cache
+C:\Users\jfrederick\Documents\Visual Studio 2010\Projects\LTQATools\obj\x86\Debug\LTQATools.Form1.resources
+C:\Users\jfrederick\Documents\Visual Studio 2010\Projects\LTQATools\obj\x86\Debug\LTQATools.Properties.Resources.resources
+C:\Users\jfrederick\Documents\Visual Studio 2010\Projects\LTQATools\obj\x86\Debug\LTQATools.csproj.GenerateResource.Cache
+C:\Users\jfrederick\Documents\Visual Studio 2010\Projects\LTQATools\obj\x86\Debug\LTQATools.exe
+C:\Users\jfrederick\Documents\Visual Studio 2010\Projects\LTQATools\obj\x86\Debug\LTQATools.pdb
+C:\Users\jfrederick\Documents\Visual Studio 2010\Projects\LTQATools\bin\Debug\Interop.WUApiLib.dll
